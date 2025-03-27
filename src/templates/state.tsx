@@ -20,7 +20,7 @@ export const config: TemplateConfig = {
   stream: {
     $id: "state-stream",
     filter: {
-      entityTypes: ["ce_state"],
+      entityTypes: ["ce_province"],
     },
     fields: [
       "id",
